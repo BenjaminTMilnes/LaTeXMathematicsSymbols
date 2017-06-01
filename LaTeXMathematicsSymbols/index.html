@@ -8,12 +8,14 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
     <script src="application.js"></script>
+    <script src="katex.min.js"></script>
 </head>
 <body ng-controller="SearchController">
     <h1>Hello</h1>
     <div ng-repeat="symbol in symbols | symbolsNotNull" class="symbol-card">
         <div class="symbol-title">{{symbol.Title}}</div>
-        <div class="symbol-latexcommand">{{symbol.LaTeXCommand}}</div>
+        <div class="symbol-latex">${{symbol.LaTeXCommand}}$</div>
+         <div class="symbol-latexcommand">{{symbol.LaTeXCommand}}</div>
         <div></div>
         <div></div>
         <div></div>

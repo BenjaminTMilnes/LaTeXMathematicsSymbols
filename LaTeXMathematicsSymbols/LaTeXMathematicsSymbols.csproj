@@ -157,6 +157,7 @@
     <Content Include="application.js" />
     <Content Include="Global.asax" />
     <Content Include="index.html" />
+    <Content Include="katex.min.js" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
     <Content Include="packages.config" />
