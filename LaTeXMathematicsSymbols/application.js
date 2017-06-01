@@ -28,6 +28,23 @@ application.filter("tagsNotNull", function () {
     };
 });
 
+application.directive("katex", function () {
+    return {
+        restrict: "E",
+        link: function (scope, element) {
+            var latex = element.html();
+            if (typeof (katex) === "undefined") {
+                require(["katex"], function (katex) {
+                    katex.render(latex, element[0]);
+                });
+            }
+            else {
+                katex.render(latex, element[0]);
+            }
+        }
+    }
+});
+
 application.controller("SearchController", ["$scope", "$http", function SearchController($scope, $http) {
     $http.get("symbols.json").then(function (data) {
         $scope.symbols = data.data;
