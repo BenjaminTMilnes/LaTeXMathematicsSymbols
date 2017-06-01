@@ -31,8 +31,8 @@ application.filter("tagsNotNull", function () {
 application.directive("katex", function () {
     return {
         restrict: "E",
-        link: function (scope, element) {
-            var latex = element.html();
+        link: function (scope, element, attributes) {
+            var latex = attributes.latex;
             if (typeof (katex) === "undefined") {
                 require(["katex"], function (katex) {
                     katex.render(latex, element[0]);

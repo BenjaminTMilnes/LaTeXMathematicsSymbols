@@ -2,8 +2,24 @@
 body {
     background-color: #F0F0F0;
     font-family: "Open Sans", sans-serif;
+    font-weight:lighter;
     padding: 20px;
     margin:0px;
+    color:#202020;
+}
+
+h1, p{
+    font-family:inherit;
+    font-weight:inherit;
+}
+
+h1{
+    text-align:center;
+   font-size:40px;
+}
+
+p{text-align:justify;
+  font-size:17px;
 }
 
 .centrecolumn{
@@ -22,7 +38,7 @@ body {
     border: 1px solid #DDDDDD;
     border-radius:2px;
     box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.05);
-    margin:20px;
+    margin:0px 20px 20px 0px;
     float:left;
 }
 
@@ -31,10 +47,12 @@ body {
     font-weight:lighter;
 }
 
-.symbol-latexcommand {
+.symbol-latex{
     font-size:70px;
     text-align:center;
-    font-family:Courier New, Courier, monospace;
+}
+
+.symbol-latexcommand {
 }
 
 .tag{

@@ -20,12 +20,11 @@
         <div class="symbols">
             <div ng-repeat="symbol in symbols | symbolsNotNull" class="symbol-card">
                 <div class="symbol-title">{{symbol.Title}}</div>
-                <div class="symbol-latex"><katex>{{symbol.LaTeXCommand}}</katex>  $$</div>
-                <div class="symbol-latexcommand">{{symbol.LaTeXCommand}}</div>
-                <div></div>
-                <div></div>
-                <div></div>
-                <div></div>
+                <div class="symbol-latex"><katex latex="{{symbol.LaTeXCommand}}"></katex></div>
+                <div class="symbol-latexcommand">LaTeX: <code>{{symbol.LaTeXCommand}}</code></div>
+                <div class="symbol-unicodecode">Unicode: <code>{{symbol.UnicodeCode}}</code></div>
+                <div class="symbol-htmlentity">HTML: <code>{{symbol.HTMLEntity}}</code></div>
+                <div class="symbol-mathmlentity">MathML: <code>{{symbol.MathMLEntity}}</code></div>
                 <div class="symbol-tags">
                     Tags:
                     <span ng-repeat="tag in symbol.Tags | tagsNotNull" class="tag">{{tag}}</span>

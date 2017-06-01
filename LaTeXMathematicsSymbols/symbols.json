@@ -19,8 +19,8 @@
     "Title": "Multiplication Sign",
     "LaTeXCommand": "\\times",
     "UnicodeCode": "",
-    "HTMLEntity": "",
-    "MathMLEntity": "",
+    "HTMLEntity": "&times;",
+    "MathMLEntity": "&times;",
     "Tags": [ "multiplication", "multiply", "times", "times by", "operation", "operator", "basic operator", "sign", "product", "", "", "", "", "", "", "", "", "" ]
   },
   {
