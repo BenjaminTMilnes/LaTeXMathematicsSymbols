@@ -17,19 +17,19 @@
   },
   {
     "Title": "Multiplication Sign",
-    "LaTeXCommand": "\times",
+    "LaTeXCommand": "\\times",
     "UnicodeCode": "",
     "HTMLEntity": "",
     "MathMLEntity": "",
-    "Tags": [ "multiplication", "multiply", "times", "times by", "operation", "operator", "basic operator", "sign", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "multiplication", "multiply", "times", "times by", "operation", "operator", "basic operator", "sign", "product", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "LaTeXCommand": "",
+    "Title": "Division Sign",
+    "LaTeXCommand": "\\div",
     "UnicodeCode": "",
     "HTMLEntity": "",
     "MathMLEntity": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "division", "divide", "divided by", "operation", "operator", "basic operator", "sign", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
     "Title": "",

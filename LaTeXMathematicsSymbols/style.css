@@ -1,7 +1,18 @@
 ﻿
-body{
-    background-color:#F0F0F0;
-    font-family:"Open Sans", sans-serif;
+body {
+    background-color: #F0F0F0;
+    font-family: "Open Sans", sans-serif;
+    padding: 20px;
+    margin:0px;
+}
+
+.centrecolumn{
+    margin:0px auto;
+    max-width:1000px;
+}
+
+.symbols{
+
 }
 
 .symbol-card {
@@ -12,6 +23,7 @@ body{
     border-radius:2px;
     box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.05);
     margin:20px;
+    float:left;
 }
 
 .symbol-title {
