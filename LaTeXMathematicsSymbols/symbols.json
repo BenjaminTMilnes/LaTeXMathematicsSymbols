@@ -5,23 +5,23 @@
     "UnicodeCode": "",
     "HTMLEntity": "",
     "MathMLEntity": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "addition", "add", "plus", "operation", "operator", "basic operator", "sign", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "LaTeXCommand": "",
+    "Title": "Subtraction Sign",
+    "LaTeXCommand": "-",
     "UnicodeCode": "",
     "HTMLEntity": "",
     "MathMLEntity": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "subtraction", "subtract", "minus", "take away", "take", "operation", "operator", "basic operator", "sign", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "LaTeXCommand": "",
+    "Title": "Multiplication Sign",
+    "LaTeXCommand": "\times",
     "UnicodeCode": "",
     "HTMLEntity": "",
     "MathMLEntity": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "multiplication", "multiply", "times", "times by", "operation", "operator", "basic operator", "sign", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
     "Title": "",
