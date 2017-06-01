@@ -154,6 +154,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="application.js" />
     <Content Include="Global.asax" />
     <Content Include="index.html" />
     <Content Include="style.css" />
