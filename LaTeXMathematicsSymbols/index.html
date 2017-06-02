@@ -17,8 +17,10 @@
         <p>This small website is a tool for looking up the LaTeX commands for mathematical symbols - because it often isn't obvious what the command is. Type the name of the symbol you're looking for in the text box below to search all of the commands listed on this website.</p>
 
         <p>Some other information is given for each command. The HTML entity is given for if you want to add the symbol to a webpage, and the MathML entity is give for if you prefer MathML to LaTeX maths syntax.</p>
+
+        <input type="text" ng-model="searchTerms" placeholder="Search for a mathematical symbol" value=""/>
         <div class="symbols">
-            <div ng-repeat="symbol in symbols | symbolsNotNull" class="symbol-card">
+            <div ng-repeat="symbol in symbols | symbolsNotNull | searchSymbols : searchTerms" class="symbol-card">
                 <div class="symbol-title">{{symbol.Title}}</div>
                 <div class="symbol-latex"><katex latex="{{symbol.LaTeXCommand}}"></katex></div>
                 <div class="symbol-latexcommand">LaTeX: <code>{{symbol.LaTeXCommand}}</code></div>
