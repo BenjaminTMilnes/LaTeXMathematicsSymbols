@@ -4,8 +4,8 @@
     "Example": "+",
     "LaTeX": "+",
     "Unicode": "",
-    "HTML": "",
-    "MathML": "",
+    "HTML": "&plus;",
+    "MathML": "&plus;",
     "Notes": "",
     "Tags": [ "addition", "add", "plus", "operation", "operator", "basic operator", "sign", "", "", "", "", "" ]
   },
@@ -100,34 +100,34 @@
     "Tags": [ "greek", "uppercase", "gamma", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
+    "Title": "Greek Lowercase Delta",
+    "Example": "\\delta",
+    "LaTeX": "\\delta",
     "Unicode": "",
-    "HTML": "",
-    "MathML": "",
+    "HTML": "&delta;",
+    "MathML": "&delta;",
     "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "delta", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
+    "Title": "Greek Uppercase Delta",
+    "Example": "\\Delta",
+    "LaTeX": "\\Delta",
     "Unicode": "",
-    "HTML": "",
-    "MathML": "",
+    "HTML": "&Delta;",
+    "MathML": "&Delta;",
     "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "delta", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
+    "Title": "Greek Lowercase Epsilon",
+    "Example": "\\epsilon",
+    "LaTeX": "\\epsilon",
     "Unicode": "",
     "HTML": "",
-    "MathML": "",
+    "MathML": "&epsi; &straightepsilon;",
     "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "epsilon", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
     "Title": "",
