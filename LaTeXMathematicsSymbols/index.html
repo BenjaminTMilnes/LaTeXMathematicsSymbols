@@ -15,24 +15,26 @@
     <div class="centrecolumn">
         <h1>LaTeX Mathematics Symbols</h1>
         <p>This small website is a tool for looking up the LaTeX commands for mathematical symbols - because it often isn't obvious what the command is. Type the name of the symbol you're looking for in the text box below to search all of the commands listed on this website.</p>
-
         <p>Some other information is given for each command. The HTML entity is given for if you want to add the symbol to a webpage, and the MathML entity is give for if you prefer MathML to LaTeX maths syntax.</p>
-
-        <input type="text" ng-model="searchTerms" placeholder="Search for a mathematical symbol" value=""/>
+        <input type="text" ng-model="searchTerms" placeholder="Search for a mathematical symbol" value="" class="searchbox" />
         <div class="symbols">
-            <div ng-repeat="symbol in symbols | symbolsNotNull | searchSymbols : searchTerms" class="symbol-card">
+            <div ng-repeat="symbol in symbols | symbolsNotNull | searchSymbols : searchTerms" class="symbol">
                 <div class="symbol-title">{{symbol.Title}}</div>
-                <div class="symbol-latex"><katex latex="{{symbol.LaTeXCommand}}"></katex></div>
-                <div class="symbol-latexcommand">LaTeX: <code>{{symbol.LaTeXCommand}}</code></div>
-                <div class="symbol-unicodecode">Unicode: <code>{{symbol.UnicodeCode}}</code></div>
-                <div class="symbol-htmlentity">HTML: <code>{{symbol.HTMLEntity}}</code></div>
-                <div class="symbol-mathmlentity">MathML: <code>{{symbol.MathMLEntity}}</code></div>
-                <div class="symbol-tags">
-                    Tags:
-                    <span ng-repeat="tag in symbol.Tags | tagsNotNull" class="tag">{{tag}}</span>
+                <div class="symbol-example"><katex latex="{{symbol.LaTeXCommand}}"></katex></div>
+                <div class="symbol-latex symbol-attribute"><span class="attribute-header">LaTeX</span><code>{{symbol.LaTeXCommand}}</code></div>
+                <div class="symbol-unicode symbol-attribute"><span class="attribute-header">Unicode</span><code>{{symbol.UnicodeCode}}</code></div>
+                <div class="symbol-html symbol-attribute"><span class="attribute-header">HTML</span><code>{{symbol.HTMLEntity}}</code></div>
+                <div class="symbol-mathml symbol-attribute"><span class="attribute-header">MathML</span><code>{{symbol.MathMLEntity}}</code></div>
+                <div class="symbol-tags symbol-attribute">
+                    <span ng-repeat="tag in symbol.Tags | tagsNotNull" ng-click="searchTerms = tag" class="tag">{{tag}}</span>
                 </div>
             </div>
+            <div style="clear:both;"></div>
         </div>
+        <p class="attribution">This website was created by B. T. Milnes.</p>
+        <p class="attribution">
+            View this project on GitHub: <a href="https://github.com/BenjaminTMilnes/LaTeXMathematicsSymbols" target="_blank">https://github.com/BenjaminTMilnes/LaTeXMathematicsSymbols</a>
+        </p>
     </div>
 </body>
 </html>

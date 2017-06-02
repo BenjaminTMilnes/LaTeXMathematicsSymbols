@@ -38,8 +38,6 @@ function stringIsNullOrEmpty(string) {
 
 application.filter("searchSymbols", function () {
     return function (symbols, searchTerms) {
-        console.log("Search Terms: " + searchTerms);
-
         if (stringIsNullOrEmpty(searchTerms)) {
             return symbols;
         }
