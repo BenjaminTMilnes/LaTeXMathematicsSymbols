@@ -5,7 +5,7 @@ application.filter("symbolsNotNull", function () {
         var symbolsNotNull = [];
 
         for (var i = 0; i < symbols.length; i++) {
-            if (symbols[i].LaTeXCommand != "") {
+            if (symbols[i].LaTeX != "") {
                 symbolsNotNull.push(symbols[i]);
             }
         }
@@ -47,10 +47,10 @@ application.filter("searchSymbols", function () {
             for (var i = 0; i < symbols.length; i++) {
                 var symbol = symbols[i];
                 var titleContainsSearchTerms = stringContains(symbol.Title, searchTerms);
-                var latexContainsSearchTerms = stringContains(symbol.LaTeXCommand, searchTerms);
-                var unicodeContainsSearchTerms = stringContains(symbol.UnicodeCode, searchTerms);
-                var htmlContainsSearchTerms = stringContains(symbol.HTMLEntity, searchTerms);
-                var mathmlContainsSearchTerms = stringContains(symbol.MathMLEntity, searchTerms);
+                var latexContainsSearchTerms = stringContains(symbol.LaTeX, searchTerms);
+                var unicodeContainsSearchTerms = stringContains(symbol.Unicode, searchTerms);
+                var htmlContainsSearchTerms = stringContains(symbol.HTML, searchTerms);
+                var mathmlContainsSearchTerms = stringContains(symbol.MathML, searchTerms);
                 var tagsContainSearchTerms = false;
 
                 for (var j = 0; j < symbol.Tags.length; j++) {

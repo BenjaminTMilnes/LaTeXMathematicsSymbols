@@ -20,11 +20,11 @@
         <div class="symbols">
             <div ng-repeat="symbol in symbols | symbolsNotNull | searchSymbols : searchTerms" class="symbol">
                 <div class="symbol-title">{{symbol.Title}}</div>
-                <div class="symbol-example"><katex latex="{{symbol.LaTeXCommand}}"></katex></div>
-                <div class="symbol-latex symbol-attribute"><span class="attribute-header">LaTeX</span><code>{{symbol.LaTeXCommand}}</code></div>
-                <div class="symbol-unicode symbol-attribute" ng-if="symbol.UnicodeCode != ''"><span class="attribute-header">Unicode</span><code>{{symbol.UnicodeCode}}</code></div>
-                <div class="symbol-html symbol-attribute" ng-if="symbol.HTMLEntity != ''"><span class="attribute-header">HTML</span><code>{{symbol.HTMLEntity}}</code></div>
-                <div class="symbol-mathml symbol-attribute" ng-if="symbol.MathMLEntity != ''"><span class="attribute-header">MathML</span><code>{{symbol.MathMLEntity}}</code></div>
+                <div class="symbol-example"><katex latex="{{symbol.Example}}"></ka></katex></div>
+                <div class="symbol-latex symbol-attribute"><span class="attribute-header">LaTeX</span><code>{{symbol.LaTeX}}</code></div>
+                <div class="symbol-unicode symbol-attribute" ng-if="symbol.Unicode != ''"><span class="attribute-header">Unicode</span><code>{{symbol.Unicode}}</code></div>
+                <div class="symbol-html symbol-attribute" ng-if="symbol.HTML != ''"><span class="attribute-header">HTML</span><code>{{symbol.HTML}}</code></div>
+                <div class="symbol-mathml symbol-attribute" ng-if="symbol.MathML != ''"><span class="attribute-header">MathML</span><code>{{symbol.MathML}}</code></div>
                 <div class="symbol-tags symbol-attribute">
                     <span ng-repeat="tag in symbol.Tags | tagsNotNull" ng-click="searchTerms = tag" class="tag">{{tag}}</span>
                 </div>
