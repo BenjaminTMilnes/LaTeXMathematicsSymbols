@@ -2,6 +2,10 @@
 
 application.filter("symbolsNotNull", function () {
     return function (symbols) {
+        if (!symbols) {
+            return symbols;
+        }
+
         var symbolsNotNull = [];
 
         for (var i = 0; i < symbols.length; i++) {
@@ -16,6 +20,10 @@ application.filter("symbolsNotNull", function () {
 
 application.filter("tagsNotNull", function () {
     return function (tags) {
+        if (!tags) {
+            return tags;
+        }
+
         var tagsNotNull = [];
 
         for (var i = 0; i < tags.length; i++) {
