@@ -240,64 +240,64 @@
     "Tags": [ "greek", "uppercase", "iota", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
+    "Title": "Greek Lowercase Kappa",
+    "Example": "\\kappa",
+    "LaTeX": "\\kappa",
+    "Unicode": "003BA",
+    "HTML": "&kappa;",
+    "MathML": "&kappa;",
     "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "kappa", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
+    "Title": "Greek Uppercase Kappa",
+    "Example": "K",
+    "LaTeX": "K",
     "Unicode": "",
-    "HTML": "",
-    "MathML": "",
+    "HTML": "&Kappa;",
+    "MathML": "&Kappa;",
     "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "kappa", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
+    "Title": "Greek Lowercase Lambda",
+    "Example": "\\lambda",
+    "LaTeX": "\\lambda",
+    "Unicode": "003BB",
+    "HTML": "&lambda;",
+    "MathML": "&lambda;",
     "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "lambda", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
+    "Title": "Greek Uppercase Lambda",
+    "Example": "\\Lambda",
+    "LaTeX": "\\Lambda",
+    "Unicode": "0039B",
+    "HTML": "&Lambda;",
+    "MathML": "&Lambda;",
     "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "lambda", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
+    "Title": "Greek Lowercase Mu",
+    "Example": "\\mu",
+    "LaTeX": "\\mu",
+    "Unicode": "003BC",
+    "HTML": "&mu;",
+    "MathML": "&mu;",
     "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "mu", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
+    "Title": "Greek Uppercase Mu",
+    "Example": "M",
+    "LaTeX": "M",
     "Unicode": "",
-    "HTML": "",
-    "MathML": "",
+    "HTML": "&Mu;",
+    "MathML": "&Mu;",
     "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "mu", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
     "Title": "",
