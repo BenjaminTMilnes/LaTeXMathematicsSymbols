@@ -16,7 +16,7 @@
     "Unicode": "",
     "HTML": "&Alpha;",
     "MathML": "&Alpha;",
-    "Notes": "",
+    "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase alpha is just represented by 'A'.",
     "Tags": [ "greek", "uppercase", "alpha", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "Title": "Greek Uppercase Beta",
-    "Example": "B",
+    "Example": "\\mathrm{B}",
     "LaTeX": "B",
     "Unicode": "",
     "HTML": "&Beta;",
     "MathML": "&Beta;",
-    "Notes": "",
+    "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase beta is just represented by 'B'.",
     "Tags": [ "greek", "uppercase", "beta", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -101,12 +101,12 @@
   },
   {
     "Title": "Greek Uppercase Epsilon",
-    "Example": "E",
+    "Example": "\\mathrm{E}",
     "LaTeX": "E",
     "Unicode": "",
     "HTML": "&Epsilon;",
     "MathML": "&Epsilon;",
-    "Notes": "",
+    "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase epsilon is just represented by 'E'.",
     "Tags": [ "greek", "uppercase", "epsilon", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -121,12 +121,12 @@
   },
   {
     "Title": "Greek Uppercase Zeta",
-    "Example": "Z",
+    "Example": "\\mathrm{Z}",
     "LaTeX": "Z",
     "Unicode": "",
     "HTML": "&Zeta;",
     "MathML": "&Zeta;",
-    "Notes": "",
+    "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase zeta is just represented by 'Z'.",
     "Tags": [ "greek", "uppercase", "zeta", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -141,12 +141,12 @@
   },
   {
     "Title": "Greek Uppercase Eta",
-    "Example": "H",
+    "Example": "\\mathrm{H}",
     "LaTeX": "H",
     "Unicode": "",
     "HTML": "&Eta;",
     "MathML": "&Eta;",
-    "Notes": "",
+    "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase eta is just represented by 'H'.",
     "Tags": [ "greek", "uppercase", "eta", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -191,12 +191,12 @@
   },
   {
     "Title": "Greek Uppercase Iota",
-    "Example": "I",
+    "Example": "\\mathrm{I}",
     "LaTeX": "I",
     "Unicode": "",
     "HTML": "&Iota;",
     "MathML": "&Iota;",
-    "Notes": "",
+    "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase iota is just represented by 'I'.",
     "Tags": [ "greek", "uppercase", "iota", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -211,12 +211,12 @@
   },
   {
     "Title": "Greek Uppercase Kappa",
-    "Example": "K",
+    "Example": "\\mathrm{K}",
     "LaTeX": "K",
     "Unicode": "",
     "HTML": "&Kappa;",
     "MathML": "&Kappa;",
-    "Notes": "",
+    "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase kappa is just represented by 'K'.",
     "Tags": [ "greek", "uppercase", "kappa", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -251,12 +251,12 @@
   },
   {
     "Title": "Greek Uppercase Mu",
-    "Example": "M",
+    "Example": "\\mathrm{M}",
     "LaTeX": "M",
     "Unicode": "",
     "HTML": "&Mu;",
     "MathML": "&Mu;",
-    "Notes": "",
+    "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase mu is just represented by 'M'.",
     "Tags": [ "greek", "uppercase", "mu", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -271,12 +271,12 @@
   },
   {
     "Title": "Greek Uppercase Nu",
-    "Example": "N",
+    "Example": "\\mathrm{N}",
     "LaTeX": "N",
     "Unicode": "",
     "HTML": "&Nu;",
     "MathML": "&Nu;",
-    "Notes": "",
+    "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase nu is just represented by 'N'.",
     "Tags": [ "greek", "uppercase", "nu", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -306,17 +306,17 @@
     "Unicode": "",
     "HTML": "&omicron;",
     "MathML": "&omicron;",
-    "Notes": "",
+    "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus lowercase omicron is just represented by 'o'.",
     "Tags": [ "greek", "lowercase", "omicron", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
     "Title": "Greek Uppercase Omicron",
-    "Example": "O",
+    "Example": "\\mathrm{O}",
     "LaTeX": "O",
     "Unicode": "",
     "HTML": "&Omicron;",
     "MathML": "&Omicron;",
-    "Notes": "",
+    "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase omicron is just represented by 'O'.",
     "Tags": [ "greek", "uppercase", "omicron", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -371,12 +371,12 @@
   },
   {
     "Title": "Greek Uppercase Rho",
-    "Example": "P",
+    "Example": "\\mathrm{P}",
     "LaTeX": "P",
     "Unicode": "",
     "HTML": "&Rho;",
     "MathML": "&Rho;",
-    "Notes": "",
+    "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase rho is just represented by 'P'.",
     "Tags": [ "greek", "uppercase", "rho", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -421,12 +421,12 @@
   },
   {
     "Title": "Greek Uppercase Tau",
-    "Example": "T",
+    "Example": "\\mathrm{T}",
     "LaTeX": "T",
     "Unicode": "",
     "HTML": "&Tau;",
     "MathML": "&Tau;",
-    "Notes": "",
+    "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase tau is just represented by 'T'.",
     "Tags": [ "greek", "uppercase", "tau", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -491,12 +491,12 @@
   },
   {
     "Title": "Greek Uppercase Chi",
-    "Example": "X",
+    "Example": "\\mathrm{X}",
     "LaTeX": "X",
     "Unicode": "",
     "HTML": "&Chi;",
     "MathML": "&Chi;",
-    "Notes": "",
+    "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase chi is just represented by 'X'.",
     "Tags": [ "greek", "uppercase", "chi", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {

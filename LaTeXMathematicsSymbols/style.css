@@ -33,7 +33,7 @@ p {
     text-align: center;
     margin: 10px auto;
     color: #202020;
-    width:70%;
+    width: 70%;
 }
 
 a {
@@ -94,6 +94,12 @@ a {
     color: #202020;
     font-size: 15px;
     font-weight: normal;
+}
+
+.symbol-notes {
+    padding: 30px;
+    font-size: 13px;
+    font-weight: lighter;
 }
 
 .attribute-header {

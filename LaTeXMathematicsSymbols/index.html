@@ -35,7 +35,8 @@
                 <div class="symbol-unicode symbol-attribute" ng-if="symbol.Unicode != ''"><span class="attribute-header">Unicode</span><code>{{symbol.Unicode}}</code></div>
                 <div class="symbol-html symbol-attribute" ng-if="symbol.HTML != ''"><span class="attribute-header">HTML</span><code>{{symbol.HTML}}</code></div>
                 <div class="symbol-mathml symbol-attribute" ng-if="symbol.MathML != ''"><span class="attribute-header">MathML</span><code>{{symbol.MathML}}</code></div>
-                <div class="symbol-tags symbol-attribute">
+                <div class="symbol-notes symbol-attribute" ng-if="symbol.Notes != ''">{{symbol.Notes}}</div>
+                 <div class="symbol-tags symbol-attribute">
                     <span ng-repeat="tag in symbol.Tags | tagsNotNull" ng-click="searchTerms = tag" class="tag">{{tag}}</span>
                 </div>
             </div>
