@@ -103,6 +103,10 @@ application.controller("SearchController", ["$scope", "$http", function SearchCo
         Array.prototype.push.apply($scope.symbols, response.data);
     });
 
+    $http.get("binaryoperators.json").then(function (response) {
+        Array.prototype.push.apply($scope.symbols, response.data);
+    });
+
     $http.get("greek.json").then(function (response) {
         Array.prototype.push.apply($scope.symbols, response.data);
     });

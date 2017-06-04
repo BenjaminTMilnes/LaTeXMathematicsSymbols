@@ -1,45 +1,5 @@
 ﻿[
   {
-    "Title": "Addition Sign",
-    "Example": "+",
-    "LaTeX": "+",
-    "Unicode": "",
-    "HTML": "&plus;",
-    "MathML": "&plus;",
-    "Notes": "",
-    "Tags": [ "addition", "add", "plus", "operation", "operator", "basic operator", "sign", "", "", "", "", "" ]
-  },
-  {
-    "Title": "Subtraction Sign",
-    "Example": "-",
-    "LaTeX": "-",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "subtraction", "subtract", "minus", "take away", "take", "operation", "operator", "basic operator", "sign", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "Multiplication Sign",
-    "Example": "\\times",
-    "LaTeX": "\\times",
-    "Unicode": "",
-    "HTML": "&times;",
-    "MathML": "&times;",
-    "Notes": "",
-    "Tags": [ "multiplication", "multiply", "times", "times by", "operation", "operator", "basic operator", "sign", "product", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "Division Sign",
-    "Example": "\\div",
-    "LaTeX": "\\div",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "&divide; &div;",
-    "Notes": "",
-    "Tags": [ "division", "divide", "divided by", "operation", "operator", "basic operator", "sign", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
     "Title": "",
     "Example": "",
     "LaTeX": "",

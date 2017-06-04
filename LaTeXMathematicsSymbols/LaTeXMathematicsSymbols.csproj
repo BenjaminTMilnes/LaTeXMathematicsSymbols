@@ -117,6 +117,7 @@
     <Content Include="packages.config" />
     <Content Include="symbols.json" />
     <Content Include="greek.json" />
+    <Content Include="binaryoperators.json" />
     <None Include="Properties\PublishProfiles\latexmathematicssymbols.com.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
