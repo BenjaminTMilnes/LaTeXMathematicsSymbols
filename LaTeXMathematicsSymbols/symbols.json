@@ -440,6 +440,436 @@
     "Tags": [ "greek", "lowercase", "sigma", "variant", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
+    "Title": "Greek Uppercase Sigma",
+    "Example": "\\Sigma",
+    "LaTeX": "\\Sigma",
+    "Unicode": "003A3",
+    "HTML": "&Sigma;",
+    "MathML": "&Sigma;",
+    "Notes": "",
+    "Tags": [ "greek", "uppercase", "sigma", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Greek Lowercase Tau",
+    "Example": "\\tau",
+    "LaTeX": "\\tau",
+    "Unicode": "003C4",
+    "HTML": "&tau;",
+    "MathML": "&tau;",
+    "Notes": "",
+    "Tags": [ "greek", "lowercase", "tau", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Greek Uppercase Tau",
+    "Example": "T",
+    "LaTeX": "T",
+    "Unicode": "",
+    "HTML": "&Tau;",
+    "MathML": "&Tau;",
+    "Notes": "",
+    "Tags": [ "greek", "uppercase", "tau", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Greek Lowercase Upsilon",
+    "Example": "\\upsilon",
+    "LaTeX": "\\upsilon",
+    "Unicode": "003C5",
+    "HTML": "",
+    "MathML": "&upsi; &upsilon;",
+    "Notes": "",
+    "Tags": [ "greek", "lowercase", "upsilon", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Greek Uppercase Upsilon",
+    "Example": "\\Upsilon",
+    "LaTeX": "\\Upsilon",
+    "Unicode": "003D2",
+    "HTML": "",
+    "MathML": "&Upsi;",
+    "Notes": "",
+    "Tags": [ "greek", "uppercase", "upsilon", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Greek Lowercase Phi",
+    "Example": "\\phi",
+    "LaTeX": "\\phi",
+    "Unicode": "003D5",
+    "HTML": "&phi;",
+    "MathML": "&phi;",
+    "Notes": "",
+    "Tags": [ "greek", "lowercase", "phi", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Greek Lowercase Phi Variant",
+    "Example": "\\varphi",
+    "LaTeX": "\\varphi",
+    "Unicode": "003C6",
+    "HTML": "",
+    "MathML": "&phiv; &varphi;",
+    "Notes": "",
+    "Tags": [ "greek", "lowercase", "phi", "variant", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Greek Uppercase Phi",
+    "Example": "\\Phi",
+    "LaTeX": "\\Phi",
+    "Unicode": "003A6",
+    "HTML": "&Phi;",
+    "MathML": "&Phi;",
+    "Notes": "",
+    "Tags": [ "greek", "uppercase", "phi", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Greek Lowercase Chi",
+    "Example": "\\chi",
+    "LaTeX": "\\chi",
+    "Unicode": "003C7",
+    "HTML": "&chi;",
+    "MathML": "&chi;",
+    "Notes": "",
+    "Tags": [ "greek", "lowercase", "chi", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Greek Uppercase Chi",
+    "Example": "X",
+    "LaTeX": "X",
+    "Unicode": "",
+    "HTML": "&Chi;",
+    "MathML": "&Chi;",
+    "Notes": "",
+    "Tags": [ "greek", "uppercase", "chi", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Greek Lowercase Psi",
+    "Example": "\\psi",
+    "LaTeX": "\\psi",
+    "Unicode": "003C8",
+    "HTML": "&psi;",
+    "MathML": "&psi;",
+    "Notes": "",
+    "Tags": [ "greek", "lowercase", "psi", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Greek Uppercase Psi",
+    "Example": "\\Psi",
+    "LaTeX": "\\Psi",
+    "Unicode": "003A8",
+    "HTML": "&Psi;",
+    "MathML": "&Psi;",
+    "Notes": "",
+    "Tags": [ "greek", "uppercase", "psi", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Greek Lowercase Omega",
+    "Example": "\\omega",
+    "LaTeX": "\\omega",
+    "Unicode": "003C9",
+    "HTML": "&omega;",
+    "MathML": "&omega;",
+    "Notes": "",
+    "Tags": [ "greek", "lowercase", "omega", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Greek Uppercase Omega",
+    "Example": "\\Omega",
+    "LaTeX": "\\Omega",
+    "Unicode": "003A9",
+    "HTML": "&Omega;",
+    "MathML": "&Omega;",
+    "Notes": "",
+    "Tags": [ "greek", "uppercase", "omega", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": "",
+    "Unicode": "",
+    "HTML": "",
+    "MathML": "",
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
     "Title": "",
     "Example": "",
     "LaTeX": "",
