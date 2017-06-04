@@ -96,7 +96,15 @@ application.directive("katex", function () {
 });
 
 application.controller("SearchController", ["$scope", "$http", function SearchController($scope, $http) {
-    $http.get("symbols.json").then(function (data) {
-        $scope.symbols = data.data;
+
+    $scope.symbols = [];
+
+    $http.get("symbols.json").then(function (response) {
+        Array.prototype.push.apply($scope.symbols, response.data);
     });
+
+    $http.get("greek.json").then(function (response) {
+        Array.prototype.push.apply($scope.symbols, response.data);
+    });
+
 }])
