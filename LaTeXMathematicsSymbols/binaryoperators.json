@@ -1,332 +1,112 @@
 ﻿[
-   {
+  {
     "Title": "Addition Sign",
     "Example": "+",
-    "LaTeX": "+",
-    "Unicode": "0002B",
-    "HTML": "+ &plus;",
-    "MathML": "+ &plus;",
+    "LaTeX": [ "+" ],
+    "Unicode": [ "0002B" ],
+    "HTML": [ "+", "&plus;" ],
+    "MathML": [ "+", "&plus;" ],
     "Notes": "",
-    "Tags": [ "addition", "add", "plus", "operation", "operator", "basic operator", "sign", "", "", "", "", "" ]
+    "Tags": [ "addition", "add", "plus", "operation", "operator", "basic operator", "sign" ]
   },
   {
     "Title": "Subtraction Sign",
     "Example": "-",
-    "LaTeX": "-",
-    "Unicode": "",
-    "HTML": "-",
-    "MathML": "-",
+    "LaTeX": [ "-" ],
+    "Unicode": [ "" ],
+    "HTML": [ "-" ],
+    "MathML": [ "-" ],
     "Notes": "",
-    "Tags": [ "subtraction", "subtract", "minus", "take away", "take", "operation", "operator", "basic operator", "sign", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "subtraction", "subtract", "minus", "take away", "take", "operation", "operator", "basic operator", "sign" ]
   },
   {
     "Title": "Multiplication Sign",
     "Example": "\\times",
-    "LaTeX": "\\times",
-    "Unicode": "000D7",
-    "HTML": "&times;",
-    "MathML": "&times;",
+    "LaTeX": [ "\\times" ],
+    "Unicode": [ "000D7" ],
+    "HTML": [ "&times;" ],
+    "MathML": [ "&times;" ],
     "Notes": "",
-    "Tags": [ "multiplication", "multiply", "times", "times by", "operation", "operator", "basic operator", "sign", "product", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "multiplication", "multiply", "times", "times by", "operation", "operator", "basic operator", "sign", "product" ]
   },
   {
     "Title": "Division Sign",
     "Example": "\\div",
-    "LaTeX": "\\div",
-    "Unicode": "000F7",
-    "HTML": "",
-    "MathML": "&divide; &div;",
+    "LaTeX": [ "\\div" ],
+    "Unicode": [ "000F7" ],
+    "HTML": [ "" ],
+    "MathML": [ "&divide;", "&div;" ],
     "Notes": "",
-    "Tags": [ "division", "divide", "divided by", "operation", "operator", "basic operator", "sign", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "division", "divide", "divided by", "operation", "operator", "basic operator", "sign" ]
   },
   {
     "Title": "Plus / Minus Sign",
     "Example": "\\pm",
-    "LaTeX": "\\pm",
-    "Unicode": "000B1",
-    "HTML": "",
-    "MathML": "&plusmn; &pm; &PlusMinus;",
+    "LaTeX": [ "\\pm" ],
+    "Unicode": [ "000B1" ],
+    "HTML": [ "" ],
+    "MathML": [ "&plusmn;", "&pm;", "&PlusMinus;" ],
     "Notes": "",
-    "Tags": [ "plus", "minus", "sign", "addition", "add", "subtraction", "subtract", "operation", "operator", "binary", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "plus", "minus", "sign", "addition", "add", "subtraction", "subtract", "operation", "operator", "binary" ]
   },
   {
     "Title": "Minus / Plus Sign",
     "Example": "\\mp",
-    "LaTeX": "\\mp",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
+    "LaTeX": [ "\\mp" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
     "Notes": "",
-    "Tags": [ "minus", "plus", "sign", "subtraction", "subtract", "addition", "add", "operation", "operator", "binary", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "minus", "plus", "sign", "subtraction", "subtract", "addition", "add", "operation", "operator", "binary" ]
   },
   {
     "Title": "Asterisk",
     "Example": "\\ast",
-    "LaTeX": "\\ast",
-    "Unicode": "",
-    "HTML": "&lowast;",
-    "MathML": "",
+    "LaTeX": [ "\\ast" ],
+    "Unicode": [ "" ],
+    "HTML": [ "&lowast;" ],
+    "MathML": [ "" ],
     "Notes": "",
-    "Tags": [ "asterisk", "star", "operation", "operator", "binary", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "asterisk", "star", "operation", "operator", "binary" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
+    "Title": "Star Operator",
+    "Example": "\\star",
+    "LaTeX": [ "\\star" ],
+    "Unicode": [ "022C6" ],
+    "HTML": [ "" ],
+    "MathML": [ "&sstarf;", "&Star;" ],
     "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "star", "operator", "small", "filled" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
+    "Title": "Circle",
+    "Example": "\\circ",
+    "LaTeX": [ "\\circ" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
     "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "circle", "degrees", "sign" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
+    "Title": "Filled Circle",
+    "Example": "\\bullet",
+    "LaTeX": [ "\\bullet" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
     "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "bullet", "circle", "filled" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
+    "Title": "Dot Operator",
+    "Example": "\\cdot",
+    "LaTeX": [ "\\cdot" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
     "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": "",
-    "Unicode": "",
-    "HTML": "",
-    "MathML": "",
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "dot", "operator", "scalar", "product" ]
   }
 ]

@@ -2,541 +2,541 @@
   {
     "Title": "Greek Lowercase Alpha",
     "Example": "\\alpha",
-    "LaTeX": "\\alpha",
-    "Unicode": "003B1",
-    "HTML": "&alpha;",
-    "MathML": "&alpha;",
+    "LaTeX": [ "\\alpha" ],
+    "Unicode": [ "003B1" ],
+    "HTML": [ "&alpha;", "&#x003B1;" ],
+    "MathML": [ "&alpha;", "&#x003B1;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "alpha", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "alpha" ]
   },
   {
     "Title": "Greek Uppercase Alpha",
     "Example": "\\mathrm{A}",
-    "LaTeX": "A",
-    "Unicode": "",
-    "HTML": "&Alpha;",
-    "MathML": "&Alpha;",
+    "LaTeX": [ "A" ],
+    "Unicode": [ "00391" ],
+    "HTML": [ "&Alpha;", "&#x00391;" ],
+    "MathML": [ "&Alpha;", "&#x00391;" ],
     "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase alpha is just represented by 'A'.",
-    "Tags": [ "greek", "uppercase", "alpha", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "alpha" ]
   },
   {
     "Title": "Greek Lowercase Beta",
     "Example": "\\beta",
-    "LaTeX": "\\beta",
-    "Unicode": "003B2",
-    "HTML": "&beta;",
-    "MathML": "&beta;",
+    "LaTeX": [ "\\beta" ],
+    "Unicode": [ "003B2" ],
+    "HTML": [ "&beta;", "&#x003B2;" ],
+    "MathML": [ "&beta;", "&#x003B2;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "beta", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "beta" ]
   },
   {
     "Title": "Greek Uppercase Beta",
     "Example": "\\mathrm{B}",
-    "LaTeX": "B",
-    "Unicode": "",
-    "HTML": "&Beta;",
-    "MathML": "&Beta;",
+    "LaTeX": [ "B" ],
+    "Unicode": [ "00392" ],
+    "HTML": [ "&Beta;", "&#x00392;" ],
+    "MathML": [ "&Beta;", "&#x00392;" ],
     "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase beta is just represented by 'B'.",
-    "Tags": [ "greek", "uppercase", "beta", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "beta" ]
   },
   {
     "Title": "Greek Lowercase Gamma",
     "Example": "\\gamma",
-    "LaTeX": "\\gamma",
-    "Unicode": "003B3",
-    "HTML": "&gamma;",
-    "MathML": "&gamma;",
+    "LaTeX": [ "\\gamma" ],
+    "Unicode": [ "003B3" ],
+    "HTML": [ "&gamma;", "&#x003B3;" ],
+    "MathML": [ "&gamma;", "&#x003B3;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "gamma", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "gamma" ]
   },
   {
     "Title": "Greek Uppercase Gamma",
     "Example": "\\Gamma",
-    "LaTeX": "\\Gamma",
-    "Unicode": "00393",
-    "HTML": "&Gamma;",
-    "MathML": "&Gamma;",
+    "LaTeX": [ "\\Gamma" ],
+    "Unicode": [ "00393" ],
+    "HTML": [ "&Gamma;", "&#x00393;" ],
+    "MathML": [ "&Gamma;", "&#x00393;" ],
     "Notes": "",
-    "Tags": [ "greek", "uppercase", "gamma", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "gamma" ]
   },
   {
     "Title": "Greek Lowercase Delta",
     "Example": "\\delta",
-    "LaTeX": "\\delta",
-    "Unicode": "003B4",
-    "HTML": "&delta;",
-    "MathML": "&delta;",
+    "LaTeX": [ "\\delta" ],
+    "Unicode": [ "003B4" ],
+    "HTML": [ "&delta;", "&#x003B4;" ],
+    "MathML": [ "&delta;", "&#x003B4;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "delta", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "delta" ]
   },
   {
     "Title": "Greek Uppercase Delta",
     "Example": "\\Delta",
-    "LaTeX": "\\Delta",
-    "Unicode": "00394",
-    "HTML": "&Delta;",
-    "MathML": "&Delta;",
+    "LaTeX": [ "\\Delta" ],
+    "Unicode": [ "00394" ],
+    "HTML": [ "&Delta;", "&#x00394;" ],
+    "MathML": [ "&Delta;", "&#x00394;" ],
     "Notes": "",
-    "Tags": [ "greek", "uppercase", "delta", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "delta" ]
   },
   {
     "Title": "Greek Lowercase Epsilon",
     "Example": "\\epsilon",
-    "LaTeX": "\\epsilon",
-    "Unicode": "003F5",
-    "HTML": "",
-    "MathML": "&epsi; &straightepsilon;",
+    "LaTeX": [ "\\epsilon" ],
+    "Unicode": [ "003F5" ],
+    "HTML": [ "&#x003F5;" ],
+    "MathML": [ "&epsi;", "&straightepsilon;", "&#x003F5;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "epsilon", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "epsilon" ]
   },
   {
     "Title": "Greek Lowercase Epsilon Variant",
     "Example": "\\varepsilon",
-    "LaTeX": "\\varepsilon",
-    "Unicode": "003B5",
-    "HTML": "",
-    "MathML": "&epsiv; &varepsilon;",
+    "LaTeX": [ "\\varepsilon" ],
+    "Unicode": [ "003B5" ],
+    "HTML": [ "&#x003B5;" ],
+    "MathML": [ "&epsiv;", "&varepsilon;", "&#x003B5;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "epsilon", "variant", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "epsilon", "variant" ]
   },
   {
     "Title": "Greek Uppercase Epsilon",
     "Example": "\\mathrm{E}",
-    "LaTeX": "E",
-    "Unicode": "",
-    "HTML": "&Epsilon;",
-    "MathML": "&Epsilon;",
+    "LaTeX": [ "E" ],
+    "Unicode": [ "00395" ],
+    "HTML": [ "&Epsilon;", "&#x00395;" ],
+    "MathML": [ "&Epsilon;", "&#x00395;" ],
     "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase epsilon is just represented by 'E'.",
-    "Tags": [ "greek", "uppercase", "epsilon", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "epsilon" ]
   },
   {
     "Title": "Greek Lowercase Zeta",
     "Example": "\\zeta",
-    "LaTeX": "\\zeta",
-    "Unicode": "003B6",
-    "HTML": "&zeta;",
-    "MathML": "&zeta;",
+    "LaTeX": [ "\\zeta" ],
+    "Unicode": [ "003B6" ],
+    "HTML": [ "&zeta;", "&#x003B6;" ],
+    "MathML": [ "&zeta;", "&#x003B6;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "zeta", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "zeta" ]
   },
   {
     "Title": "Greek Uppercase Zeta",
     "Example": "\\mathrm{Z}",
-    "LaTeX": "Z",
-    "Unicode": "",
-    "HTML": "&Zeta;",
-    "MathML": "&Zeta;",
+    "LaTeX": [ "Z" ],
+    "Unicode": [ "00396" ],
+    "HTML": [ "&Zeta;", "&#x00396;" ],
+    "MathML": [ "&Zeta;", "&#x00396;" ],
     "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase zeta is just represented by 'Z'.",
-    "Tags": [ "greek", "uppercase", "zeta", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "zeta" ]
   },
   {
     "Title": "Greek Lowercase Eta",
     "Example": "\\eta",
-    "LaTeX": "\\eta",
-    "Unicode": "003B7",
-    "HTML": "&eta;",
-    "MathML": "&eta;",
+    "LaTeX": [ "\\eta" ],
+    "Unicode": [ "003B7" ],
+    "HTML": [ "&eta;", "&#x003B7;" ],
+    "MathML": [ "&eta;", "&#x003B7;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "eta", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "eta" ]
   },
   {
     "Title": "Greek Uppercase Eta",
     "Example": "\\mathrm{H}",
-    "LaTeX": "H",
-    "Unicode": "",
-    "HTML": "&Eta;",
-    "MathML": "&Eta;",
+    "LaTeX": [ "H" ],
+    "Unicode": [ "00397" ],
+    "HTML": [ "&Eta;", "&#x00397;" ],
+    "MathML": [ "&Eta;", "&#x00397;" ],
     "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase eta is just represented by 'H'.",
-    "Tags": [ "greek", "uppercase", "eta", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "eta" ]
   },
   {
     "Title": "Greek Lowercase Theta",
     "Example": "\\theta",
-    "LaTeX": "\\theta",
-    "Unicode": "003B8",
-    "HTML": "&theta;",
-    "MathML": "&theta;",
+    "LaTeX": [ "\\theta" ],
+    "Unicode": [ "003B8" ],
+    "HTML": [ "&theta;", "&#x003B8;" ],
+    "MathML": [ "&theta;", "&#x003B8;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "theta", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "theta" ]
   },
   {
     "Title": "Greek Lowercase Theta Variant",
     "Example": "\\vartheta",
-    "LaTeX": "\\vartheta",
-    "Unicode": "003D1",
-    "HTML": "",
-    "MathML": "&thetav; &vartheta;",
+    "LaTeX": [ "\\vartheta" ],
+    "Unicode": [ "003D1" ],
+    "HTML": [ "&#x003D1;" ],
+    "MathML": [ "&thetav;", "&vartheta;", "&#x003D1;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "theta", "variant", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "theta", "variant" ]
   },
   {
     "Title": "Greek Uppercase Theta",
     "Example": "\\Theta",
-    "LaTeX": "\\Theta",
-    "Unicode": "00398",
-    "HTML": "&Theta;",
-    "MathML": "&Theta;",
+    "LaTeX": [ "\\Theta" ],
+    "Unicode": [ "00398" ],
+    "HTML": [ "&Theta;", "&#x00398;" ],
+    "MathML": [ "&Theta;", "&#x00398;" ],
     "Notes": "",
-    "Tags": [ "greek", "uppercase", "theta", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "theta" ]
   },
   {
     "Title": "Greek Lowercase Iota",
     "Example": "\\iota",
-    "LaTeX": "\\iota",
-    "Unicode": "003B9",
-    "HTML": "&iota;",
-    "MathML": "&iota;",
+    "LaTeX": [ "\\iota" ],
+    "Unicode": [ "003B9" ],
+    "HTML": [ "&iota;", "&#x003B9;" ],
+    "MathML": [ "&iota;", "&#x003B9;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "iota", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "iota" ]
   },
   {
     "Title": "Greek Uppercase Iota",
     "Example": "\\mathrm{I}",
-    "LaTeX": "I",
-    "Unicode": "",
-    "HTML": "&Iota;",
-    "MathML": "&Iota;",
+    "LaTeX": [ "I" ],
+    "Unicode": [ "00399" ],
+    "HTML": [ "&Iota;", "&#x00399;" ],
+    "MathML": [ "&Iota;", "&#x00399;" ],
     "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase iota is just represented by 'I'.",
-    "Tags": [ "greek", "uppercase", "iota", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "iota" ]
   },
   {
     "Title": "Greek Lowercase Kappa",
     "Example": "\\kappa",
-    "LaTeX": "\\kappa",
-    "Unicode": "003BA",
-    "HTML": "&kappa;",
-    "MathML": "&kappa;",
+    "LaTeX": [ "\\kappa" ],
+    "Unicode": [ "003BA" ],
+    "HTML": [ "&kappa;", "&#x003BA;" ],
+    "MathML": [ "&kappa;", "&#x003BA;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "kappa", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "kappa" ]
   },
   {
     "Title": "Greek Uppercase Kappa",
     "Example": "\\mathrm{K}",
-    "LaTeX": "K",
-    "Unicode": "",
-    "HTML": "&Kappa;",
-    "MathML": "&Kappa;",
+    "LaTeX": [ "K" ],
+    "Unicode": [ "0039A" ],
+    "HTML": [ "&Kappa;", "&#x0039A;" ],
+    "MathML": [ "&Kappa;", "&#x0039A;" ],
     "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase kappa is just represented by 'K'.",
-    "Tags": [ "greek", "uppercase", "kappa", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "kappa" ]
   },
   {
     "Title": "Greek Lowercase Lambda",
     "Example": "\\lambda",
-    "LaTeX": "\\lambda",
-    "Unicode": "003BB",
-    "HTML": "&lambda;",
-    "MathML": "&lambda;",
+    "LaTeX": [ "\\lambda" ],
+    "Unicode": [ "003BB" ],
+    "HTML": [ "&lambda;", "&#x003BB;" ],
+    "MathML": [ "&lambda;", "&#x003BB;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "lambda", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "lambda" ]
   },
   {
     "Title": "Greek Uppercase Lambda",
     "Example": "\\Lambda",
-    "LaTeX": "\\Lambda",
-    "Unicode": "0039B",
-    "HTML": "&Lambda;",
-    "MathML": "&Lambda;",
+    "LaTeX": [ "\\Lambda" ],
+    "Unicode": [ "0039B" ],
+    "HTML": [ "&Lambda;", "&#x0039B;" ],
+    "MathML": [ "&Lambda;", "&#x0039B;" ],
     "Notes": "",
-    "Tags": [ "greek", "uppercase", "lambda", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "lambda" ]
   },
   {
     "Title": "Greek Lowercase Mu",
     "Example": "\\mu",
-    "LaTeX": "\\mu",
-    "Unicode": "003BC",
-    "HTML": "&mu;",
-    "MathML": "&mu;",
+    "LaTeX": [ "\\mu" ],
+    "Unicode": [ "003BC" ],
+    "HTML": [ "&mu;", "&#x003BC;" ],
+    "MathML": [ "&mu;", "&#x003BC;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "mu", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "mu" ]
   },
   {
     "Title": "Greek Uppercase Mu",
     "Example": "\\mathrm{M}",
-    "LaTeX": "M",
-    "Unicode": "",
-    "HTML": "&Mu;",
-    "MathML": "&Mu;",
+    "LaTeX": [ "M" ],
+    "Unicode": [ "0039C" ],
+    "HTML": [ "&Mu;", "&#x0039C;" ],
+    "MathML": [ "&Mu;", "&#x0039C;" ],
     "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase mu is just represented by 'M'.",
-    "Tags": [ "greek", "uppercase", "mu", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "mu" ]
   },
   {
     "Title": "Greek Lowercase Nu",
     "Example": "\\nu",
-    "LaTeX": "\\nu",
-    "Unicode": "003BD",
-    "HTML": "&nu;",
-    "MathML": "&nu;",
+    "LaTeX": [ "\\nu" ],
+    "Unicode": [ "003BD" ],
+    "HTML": [ "&nu;", "&#x003BD;" ],
+    "MathML": [ "&nu;", "&#x003BD;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "nu", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "nu" ]
   },
   {
     "Title": "Greek Uppercase Nu",
     "Example": "\\mathrm{N}",
-    "LaTeX": "N",
-    "Unicode": "",
-    "HTML": "&Nu;",
-    "MathML": "&Nu;",
+    "LaTeX": [ "N" ],
+    "Unicode": [ "0039D" ],
+    "HTML": [ "&Nu;", "&#x0039D;" ],
+    "MathML": [ "&Nu;", "&#x0039D;" ],
     "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase nu is just represented by 'N'.",
-    "Tags": [ "greek", "uppercase", "nu", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "nu" ]
   },
   {
     "Title": "Greek Lowercase Xi",
     "Example": "\\xi",
-    "LaTeX": "\\xi",
-    "Unicode": "003BE",
-    "HTML": "&xi;",
-    "MathML": "&xi;",
+    "LaTeX": [ "\\xi" ],
+    "Unicode": [ "003BE" ],
+    "HTML": [ "&xi;", "&#x003BE;" ],
+    "MathML": [ "&xi;", "&#x003BE;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "xi", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "xi" ]
   },
   {
     "Title": "Greek Uppercase Xi",
     "Example": "\\Xi",
-    "LaTeX": "\\Xi",
-    "Unicode": "0039E",
-    "HTML": "&Xi;",
-    "MathML": "&Xi;",
+    "LaTeX": [ "\\Xi" ],
+    "Unicode": [ "0039E" ],
+    "HTML": [ "&Xi;", "&#x0039E;" ],
+    "MathML": [ "&Xi;", "&#x0039E;" ],
     "Notes": "",
-    "Tags": [ "greek", "uppercase", "xi", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "xi" ]
   },
   {
     "Title": "Greek Lowercase Omicron",
     "Example": "o",
-    "LaTeX": "o",
-    "Unicode": "",
-    "HTML": "&omicron;",
-    "MathML": "&omicron;",
+    "LaTeX": [ "o" ],
+    "Unicode": [ "003BF" ],
+    "HTML": [ "&omicron;", "&#x003BF;" ],
+    "MathML": [ "&omicron;", "&#x003BF;" ],
     "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus lowercase omicron is just represented by 'o'.",
-    "Tags": [ "greek", "lowercase", "omicron", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "omicron" ]
   },
   {
     "Title": "Greek Uppercase Omicron",
     "Example": "\\mathrm{O}",
-    "LaTeX": "O",
-    "Unicode": "",
-    "HTML": "&Omicron;",
-    "MathML": "&Omicron;",
+    "LaTeX": [ "O" ],
+    "Unicode": [ "0039F" ],
+    "HTML": [ "&Omicron;", "&#x0039F;" ],
+    "MathML": [ "&Omicron;", "&#x0039F;" ],
     "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase omicron is just represented by 'O'.",
-    "Tags": [ "greek", "uppercase", "omicron", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "omicron" ]
   },
   {
     "Title": "Greek Lowercase Pi",
     "Example": "\\pi",
-    "LaTeX": "\\pi",
-    "Unicode": "003C0",
-    "HTML": "&pi;",
-    "MathML": "&pi;",
+    "LaTeX": [ "\\pi" ],
+    "Unicode": [ "003C0" ],
+    "HTML": [ "&pi;", "&#x003C0;" ],
+    "MathML": [ "&pi;", "&#x003C0;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "pi", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "pi" ]
   },
   {
     "Title": "Greek Lowercase Pi Variant",
     "Example": "\\varpi",
-    "LaTeX": "\\varpi",
-    "Unicode": "003D6",
-    "HTML": "",
-    "MathML": "&piv; &varpi;",
+    "LaTeX": [ "\\varpi" ],
+    "Unicode": [ "003D6" ],
+    "HTML": [ "&#x003D6;" ],
+    "MathML": [ "&piv;", "&varpi;", "&#x003D6;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "pi", "variant", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "pi", "variant" ]
   },
   {
     "Title": "Greek Uppercase Pi",
     "Example": "\\Pi",
-    "LaTeX": "\\Pi",
-    "Unicode": "003A0",
-    "HTML": "&Pi;",
-    "MathML": "&Pi;",
+    "LaTeX": [ "\\Pi" ],
+    "Unicode": [ "003A0" ],
+    "HTML": [ "&Pi;", "&#x003A0;" ],
+    "MathML": [ "&Pi;", "&#x003A0;" ],
     "Notes": "",
-    "Tags": [ "greek", "uppercase", "pi", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "pi" ]
   },
   {
     "Title": "Greek Lowercase Rho",
     "Example": "\\rho",
-    "LaTeX": "\\rho",
-    "Unicode": "003C1",
-    "HTML": "&rho;",
-    "MathML": "&rho;",
+    "LaTeX": [ "\\rho" ],
+    "Unicode": [ "003C1" ],
+    "HTML": [ "&rho;", "&#x003C1;" ],
+    "MathML": [ "&rho;", "&#x003C1;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "rho", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "rho" ]
   },
   {
     "Title": "Greek Lowercase Rho Variant",
     "Example": "\\varrho",
-    "LaTeX": "\\varrho",
-    "Unicode": "003F1",
-    "HTML": "",
-    "MathML": "&rhov; &varrho;",
+    "LaTeX": [ "\\varrho" ],
+    "Unicode": [ "003F1" ],
+    "HTML": [ "&#x003F1;" ],
+    "MathML": [ "&rhov;", "&varrho;", "&#x003F1;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "rho", "variant", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "rho", "variant" ]
   },
   {
     "Title": "Greek Uppercase Rho",
     "Example": "\\mathrm{P}",
-    "LaTeX": "P",
-    "Unicode": "",
-    "HTML": "&Rho;",
-    "MathML": "&Rho;",
+    "LaTeX": [ "P" ],
+    "Unicode": [ "003A1" ],
+    "HTML": [ "&Rho;", "&#x003A1;" ],
+    "MathML": [ "&Rho;", "&#x003A1;" ],
     "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase rho is just represented by 'P'.",
-    "Tags": [ "greek", "uppercase", "rho", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "rho" ]
   },
   {
     "Title": "Greek Lowercase Sigma",
     "Example": "\\sigma",
-    "LaTeX": "\\sigma",
-    "Unicode": "003C3",
-    "HTML": "&sigma;",
-    "MathML": "&sigma;",
+    "LaTeX": [ "\\sigma" ],
+    "Unicode": [ "003C3" ],
+    "HTML": [ "&sigma;", "&#x003C3;" ],
+    "MathML": [ "&sigma;", "&#x003C3;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "sigma", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "sigma" ]
   },
   {
     "Title": "Greek Lowercase Sigma Variant",
     "Example": "\\varsigma",
-    "LaTeX": "\\varsigma",
-    "Unicode": "003C2",
-    "HTML": "",
-    "MathML": "&sigmav; &varsigma;",
+    "LaTeX": [ "\\varsigma" ],
+    "Unicode": [ "003C2" ],
+    "HTML": [ "&#x003C2;" ],
+    "MathML": [ "&sigmav;", "&varsigma;", "&#x003C2;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "sigma", "variant", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "sigma", "variant" ]
   },
   {
     "Title": "Greek Uppercase Sigma",
     "Example": "\\Sigma",
-    "LaTeX": "\\Sigma",
-    "Unicode": "003A3",
-    "HTML": "&Sigma;",
-    "MathML": "&Sigma;",
+    "LaTeX": [ "\\Sigma" ],
+    "Unicode": [ "003A3" ],
+    "HTML": [ "&Sigma;", "&#x003A3;" ],
+    "MathML": [ "&Sigma;", "&#x003A3;" ],
     "Notes": "",
-    "Tags": [ "greek", "uppercase", "sigma", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "sigma" ]
   },
   {
     "Title": "Greek Lowercase Tau",
     "Example": "\\tau",
-    "LaTeX": "\\tau",
-    "Unicode": "003C4",
-    "HTML": "&tau;",
-    "MathML": "&tau;",
+    "LaTeX": [ "\\tau" ],
+    "Unicode": [ "003C4" ],
+    "HTML": [ "&tau;", "&#x003C4;" ],
+    "MathML": [ "&tau;", "&#x003C4;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "tau", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "tau" ]
   },
   {
     "Title": "Greek Uppercase Tau",
     "Example": "\\mathrm{T}",
-    "LaTeX": "T",
-    "Unicode": "",
-    "HTML": "&Tau;",
-    "MathML": "&Tau;",
+    "LaTeX": [ "T" ],
+    "Unicode": [ "003A4" ],
+    "HTML": [ "&Tau;", "&#x003A4;" ],
+    "MathML": [ "&Tau;", "&#x003A4;" ],
     "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase tau is just represented by 'T'.",
-    "Tags": [ "greek", "uppercase", "tau", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "tau" ]
   },
   {
     "Title": "Greek Lowercase Upsilon",
     "Example": "\\upsilon",
-    "LaTeX": "\\upsilon",
-    "Unicode": "003C5",
-    "HTML": "",
-    "MathML": "&upsi; &upsilon;",
+    "LaTeX": [ "\\upsilon" ],
+    "Unicode": [ "003C5" ],
+    "HTML": [ "&#x003C5;" ],
+    "MathML": [ "&upsi;", "&upsilon;", "&#x003C5;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "upsilon", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "upsilon" ]
   },
   {
     "Title": "Greek Uppercase Upsilon",
     "Example": "\\Upsilon",
-    "LaTeX": "\\Upsilon",
-    "Unicode": "003D2",
-    "HTML": "",
-    "MathML": "&Upsi;",
+    "LaTeX": [ "\\Upsilon" ],
+    "Unicode": [ "003D2" ],
+    "HTML": [ "&#x003D2;" ],
+    "MathML": [ "&Upsi;", "&#x003D2;" ],
     "Notes": "",
-    "Tags": [ "greek", "uppercase", "upsilon", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "upsilon" ]
   },
   {
     "Title": "Greek Lowercase Phi",
     "Example": "\\phi",
-    "LaTeX": "\\phi",
-    "Unicode": "003D5",
-    "HTML": "&phi;",
-    "MathML": "&phi;",
+    "LaTeX": [ "\\phi" ],
+    "Unicode": [ "003D5" ],
+    "HTML": [ "&phi;", "&#x003D5;" ],
+    "MathML": [ "&phi;", "&#x003D5;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "phi", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "phi" ]
   },
   {
     "Title": "Greek Lowercase Phi Variant",
     "Example": "\\varphi",
-    "LaTeX": "\\varphi",
-    "Unicode": "003C6",
-    "HTML": "",
-    "MathML": "&phiv; &varphi;",
+    "LaTeX": [ "\\varphi" ],
+    "Unicode": [ "003C6" ],
+    "HTML": [ "&#x003C6;" ],
+    "MathML": [ "&phiv;", "&varphi;", "&#x003C6;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "phi", "variant", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "phi", "variant" ]
   },
   {
     "Title": "Greek Uppercase Phi",
     "Example": "\\Phi",
-    "LaTeX": "\\Phi",
-    "Unicode": "003A6",
-    "HTML": "&Phi;",
-    "MathML": "&Phi;",
+    "LaTeX": [ "\\Phi" ],
+    "Unicode": [ "003A6" ],
+    "HTML": [ "&Phi;", "&#x003A6;" ],
+    "MathML": [ "&Phi;", "&#x003A6;" ],
     "Notes": "",
-    "Tags": [ "greek", "uppercase", "phi", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "phi" ]
   },
   {
     "Title": "Greek Lowercase Chi",
     "Example": "\\chi",
-    "LaTeX": "\\chi",
-    "Unicode": "003C7",
-    "HTML": "&chi;",
-    "MathML": "&chi;",
+    "LaTeX": [ "\\chi" ],
+    "Unicode": [ "003C7" ],
+    "HTML": [ "&chi;", "&#x003C7;" ],
+    "MathML": [ "&chi;", "&#x003C7;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "chi", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "chi" ]
   },
   {
     "Title": "Greek Uppercase Chi",
     "Example": "\\mathrm{X}",
-    "LaTeX": "X",
-    "Unicode": "",
-    "HTML": "&Chi;",
-    "MathML": "&Chi;",
+    "LaTeX": [ "X" ],
+    "Unicode": [ "003A7" ],
+    "HTML": [ "&Chi;", "&#x003A7;" ],
+    "MathML": [ "&Chi;", "&#x003A7;" ],
     "Notes": "LaTeX does not distinguish between Greek letters and English letters that look similar, thus uppercase chi is just represented by 'X'.",
-    "Tags": [ "greek", "uppercase", "chi", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "chi" ]
   },
   {
     "Title": "Greek Lowercase Psi",
     "Example": "\\psi",
-    "LaTeX": "\\psi",
-    "Unicode": "003C8",
-    "HTML": "&psi;",
-    "MathML": "&psi;",
+    "LaTeX": [ "\\psi" ],
+    "Unicode": [ "003C8" ],
+    "HTML": [ "&psi;", "&#x003C8;" ],
+    "MathML": [ "&psi;", "&#x003C8;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "psi", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "psi" ]
   },
   {
     "Title": "Greek Uppercase Psi",
     "Example": "\\Psi",
-    "LaTeX": "\\Psi",
-    "Unicode": "003A8",
-    "HTML": "&Psi;",
-    "MathML": "&Psi;",
+    "LaTeX": [ "\\Psi" ],
+    "Unicode": [ "003A8" ],
+    "HTML": [ "&Psi;", "&#x003A8;" ],
+    "MathML": [ "&Psi;", "&#x003A8;" ],
     "Notes": "",
-    "Tags": [ "greek", "uppercase", "psi", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "psi" ]
   },
   {
     "Title": "Greek Lowercase Omega",
     "Example": "\\omega",
-    "LaTeX": "\\omega",
-    "Unicode": "003C9",
-    "HTML": "&omega;",
-    "MathML": "&omega;",
+    "LaTeX": [ "\\omega" ],
+    "Unicode": [ "003C9" ],
+    "HTML": [ "&omega;", "&#x003C9;" ],
+    "MathML": [ "&omega;", "&#x003C9;" ],
     "Notes": "",
-    "Tags": [ "greek", "lowercase", "omega", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "lowercase", "omega" ]
   },
   {
     "Title": "Greek Uppercase Omega",
     "Example": "\\Omega",
-    "LaTeX": "\\Omega",
-    "Unicode": "003A9",
-    "HTML": "&Omega;",
-    "MathML": "&Omega;",
+    "LaTeX": [ "\\Omega" ],
+    "Unicode": [ "003A9" ],
+    "HTML": [ "&Omega;", "&#x003A9;" ],
+    "MathML": [ "&Omega;", "&#x003A9;" ],
     "Notes": "",
-    "Tags": [ "greek", "uppercase", "omega", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "greek", "uppercase", "omega" ]
   }
 ]
