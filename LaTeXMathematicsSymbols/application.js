@@ -111,4 +111,6 @@ application.controller("SearchController", ["$scope", "$http", function SearchCo
         Array.prototype.push.apply($scope.symbols, response.data);
     });
 
+
+
 }])

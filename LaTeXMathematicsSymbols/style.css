@@ -116,6 +116,10 @@ code {
     display: inline-block;
 }
 
+.symbol-attribute code{
+    margin-right:1em;
+}
+
 .tag {
     display: inline-block;
     background-color: #2a5cb1;
