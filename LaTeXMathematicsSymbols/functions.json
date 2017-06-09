@@ -1,6 +1,6 @@
 ﻿[
   {
-    "Title": "Arc Cosine",
+    "Title": "Arc Cosine Function",
     "Example": "\\arccos",
     "LaTeX": [ "\\arccos" ],
     "Unicode": [ ],
@@ -10,7 +10,7 @@
     "Tags": [ "arc", "cos", "cosine", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "Arc Sine",
+    "Title": "Arc Sine Function",
     "Example": "\\arcsin",
     "LaTeX": [ "\\arcsin" ],
     "Unicode": [ ],
@@ -20,7 +20,7 @@
     "Tags": [ "arc", "sin", "sine", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "Arc Tangent",
+    "Title": "Arc Tangent Function",
     "Example": "\\arctan",
     "LaTeX": [ "\\arctan" ],
     "Unicode": [ ],
@@ -30,7 +30,7 @@
     "Tags": [ "arc", "tan", "tangent", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "Cosine",
+    "Title": "Cosine Function",
     "Example": "\\cos",
     "LaTeX": [ "\\cos" ],
     "Unicode": [ ],
@@ -40,7 +40,7 @@
     "Tags": [ "cos", "cosine", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "Hyperbolic Cosine",
+    "Title": "Hyperbolic Cosine Function",
     "Example": "\\cosh",
     "LaTeX": [ "\\cosh" ],
     "Unicode": [ ],
@@ -50,13 +50,73 @@
     "Tags": [ "cosh", "cosine", "hyperbolic", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
+    "Title": "Cotangent Function",
+    "Example": "\\cot",
+    "LaTeX": [ "\\cot" ],
+    "Unicode": [ ],
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
+    "Tags": [ "cot", "cotan", "ctgt", "cotangent", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Hyperbolic Cotangent Function",
+    "Example": "\\coth",
+    "LaTeX": [ "\\coth" ],
+    "Unicode": [ ],
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
+    "Tags": [ "coth", "cotanh", "cotangent", "hyperbolic", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Cosecant Function",
+    "Example": "\\csc",
+    "LaTeX": [ "\\csc" ],
+    "Unicode": [ ],
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
+    "Tags": [ "csc", "cosec", "cosecant", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Exponential Function",
+    "Example": "\\exp",
+    "LaTeX": [ "\\exp" ],
+    "Unicode": [ ],
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
+    "Tags": [ "exp", "exponential", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Logarithm",
+    "Example": "\\lg",
+    "LaTeX": [ "\\lg", "\\log" ],
+    "Unicode": [ ],
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
+    "Tags": [ "lg", "log", "logarithm", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Natural Logarithm",
+    "Example": "\\ln",
+    "LaTeX": [ "\\ln" ],
+    "Unicode": [ ],
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
+    "Tags": [ "ln", "log", "logarithm", "natural", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
     "Title": "",
     "Example": "",
     "LaTeX": [ "" ],
     "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
     "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -64,9 +124,9 @@
     "Example": "",
     "LaTeX": [ "" ],
     "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
     "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -74,9 +134,9 @@
     "Example": "",
     "LaTeX": [ "" ],
     "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
     "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -84,9 +144,9 @@
     "Example": "",
     "LaTeX": [ "" ],
     "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
     "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -94,9 +154,9 @@
     "Example": "",
     "LaTeX": [ "" ],
     "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
     "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -104,9 +164,9 @@
     "Example": "",
     "LaTeX": [ "" ],
     "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
     "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -114,9 +174,9 @@
     "Example": "",
     "LaTeX": [ "" ],
     "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
     "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -124,9 +184,9 @@
     "Example": "",
     "LaTeX": [ "" ],
     "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
     "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
@@ -134,219 +194,9 @@
     "Example": "",
     "LaTeX": [ "" ],
     "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ "" ],
-    "MathML": [ "" ],
-    "Notes": "",
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
     "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   }
 ]
