@@ -36,6 +36,10 @@ application.filter("tagsNotNull", function () {
     };
 });
 
+function makeSearchableString(array) {
+    return array.join(", ");
+}
+
 function stringContains(string1, string2) {
     return (string1.indexOf(string2) >= 0);
 }
@@ -55,18 +59,11 @@ application.filter("searchSymbols", function () {
             for (var i = 0; i < symbols.length; i++) {
                 var symbol = symbols[i];
                 var titleContainsSearchTerms = stringContains(symbol.Title, searchTerms);
-                var latexContainsSearchTerms = stringContains(symbol.LaTeX, searchTerms);
-                var unicodeContainsSearchTerms = stringContains(symbol.Unicode, searchTerms);
-                var htmlContainsSearchTerms = stringContains(symbol.HTML, searchTerms);
-                var mathmlContainsSearchTerms = stringContains(symbol.MathML, searchTerms);
-                var tagsContainSearchTerms = false;
-
-                for (var j = 0; j < symbol.Tags.length; j++) {
-                    var tag = symbol.Tags[j];
-                    if (stringContains(tag, searchTerms)) {
-                        tagsContainSearchTerms = true;
-                    }
-                }
+                var latexContainsSearchTerms = stringContains(makeSearchableString(symbol.LaTeX), searchTerms);
+                var unicodeContainsSearchTerms = stringContains(makeSearchableString(symbol.Unicode), searchTerms);
+                var htmlContainsSearchTerms = stringContains(makeSearchableString(symbol.HTML), searchTerms);
+                var mathmlContainsSearchTerms = stringContains(makeSearchableString(symbol.MathML), searchTerms);
+                var tagsContainSearchTerms = stringContains(makeSearchableString(symbol.Tags), searchTerms);
 
                 if (titleContainsSearchTerms || latexContainsSearchTerms || unicodeContainsSearchTerms || htmlContainsSearchTerms || mathmlContainsSearchTerms || tagsContainSearchTerms) {
                     matchingSymbols.push(symbol);
