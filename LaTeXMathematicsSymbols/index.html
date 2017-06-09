@@ -37,7 +37,7 @@
                 <div class="symbol-mathml symbol-attribute" ng-if="symbol.MathML != ''"><span class="attribute-header">MathML</span><code ng-repeat="entity in symbol.MathML">{{ entity }}</code></div>
                 <div class="symbol-notes symbol-attribute" ng-if="symbol.Notes != ''">{{symbol.Notes}}</div>
                  <div class="symbol-tags symbol-attribute">
-                    <span ng-repeat="tag in symbol.Tags | tagsNotNull" ng-click="searchTerms = tag" class="tag">{{tag}}</span>
+                    <span ng-repeat="tag in symbol.Tags | tagsNotNull" ng-click="updateSearch(tag);" class="tag">{{tag}}</span>
                 </div>
             </div>
             <div style="clear:both;"></div>

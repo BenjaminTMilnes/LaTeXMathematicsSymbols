@@ -111,6 +111,8 @@ application.controller("SearchController", ["$scope", "$http", function SearchCo
         Array.prototype.push.apply($scope.symbols, response.data);
     });
 
-
+    $scope.updateSearch = function (terms) {
+        $scope.searchTerms = terms;
+    }
 
 }])
