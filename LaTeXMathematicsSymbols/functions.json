@@ -1,0 +1,352 @@
+﻿[
+  {
+    "Title": "Arc Cosine",
+    "Example": "\\arccos",
+    "LaTeX": [ "\\arccos" ],
+    "Unicode": [ ],
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
+    "Tags": [ "arc", "cos", "cosine", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Arc Sine",
+    "Example": "\\arcsin",
+    "LaTeX": [ "\\arcsin" ],
+    "Unicode": [ ],
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
+    "Tags": [ "arc", "sin", "sine", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Arc Tangent",
+    "Example": "\\arctan",
+    "LaTeX": [ "\\arctan" ],
+    "Unicode": [ ],
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
+    "Tags": [ "arc", "tan", "tangent", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Cosine",
+    "Example": "\\cos",
+    "LaTeX": [ "\\cos" ],
+    "Unicode": [ ],
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
+    "Tags": [ "cos", "cosine", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Hyperbolic Cosine",
+    "Example": "\\cosh",
+    "LaTeX": [ "\\cosh" ],
+    "Unicode": [ ],
+    "HTML": [ ],
+    "MathML": [ ],
+    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
+    "Tags": [ "cosh", "cosine", "hyperbolic", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  }
+]

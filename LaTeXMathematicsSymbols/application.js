@@ -99,17 +99,13 @@ application.controller("SearchController", ["$scope", "$http", function SearchCo
 
     $scope.symbols = [];
 
-    $http.get("symbols.json").then(function (response) {
-        Array.prototype.push.apply($scope.symbols, response.data);
-    });
+    $scope.dataFiles = ["symbols.json", "binaryoperators.json", "greek.json", "functions.json"]
 
-    $http.get("binaryoperators.json").then(function (response) {
-        Array.prototype.push.apply($scope.symbols, response.data);
-    });
-
-    $http.get("greek.json").then(function (response) {
-        Array.prototype.push.apply($scope.symbols, response.data);
-    });
+    for (var i = 0; i < $scope.dataFiles.length; i++) {
+        $http.get($scope.dataFiles[i]).then(function (response) {
+            Array.prototype.push.apply($scope.symbols, response.data);
+        });
+    }
 
     $scope.updateSearch = function (terms) {
         $scope.searchTerms = terms;
