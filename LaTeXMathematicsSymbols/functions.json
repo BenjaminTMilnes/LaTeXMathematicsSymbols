@@ -3,7 +3,7 @@
     "Title": "Arc Cosine Function",
     "Example": "\\arccos",
     "Length": 6,
-     "LaTeX": [ "\\arccos" ],
+    "LaTeX": [ "\\arccos" ],
     "Unicode": [ ],
     "HTML": [ ],
     "MathML": [ ],
@@ -35,7 +35,7 @@
   {
     "Title": "Cosine Function",
     "Example": "\\cos",
-    "Length":3,
+    "Length": 3,
     "LaTeX": [ "\\cos" ],
     "Unicode": [ ],
     "HTML": [ ],
@@ -121,84 +121,59 @@
     "Tags": [ "ln", "log", "logarithm", "natural", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
+    "Title": "Secant Function",
+    "Example": "\\sec",
+    "Length": 3,
+    "LaTeX": [ "\\sec" ],
     "Unicode": [ ],
     "HTML": [ ],
     "MathML": [ ],
     "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "sec", "secant", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
+    "Title": "Sine Function",
+    "Example": "\\sin",
+    "Length": 3,
+    "LaTeX": [ "\\sin" ],
     "Unicode": [ ],
     "HTML": [ ],
     "MathML": [ ],
     "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "sin", "sine", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
+    "Title": "Hyperbolic Sine Function",
+    "Example": "\\sinh",
+    "Length": 4,
+    "LaTeX": [ "\\sinh" ],
     "Unicode": [ ],
     "HTML": [ ],
     "MathML": [ ],
     "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "sin", "sinh", "sine", "hyperbolic", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
+    "Title": "Tangent Function",
+    "Example": "\\tan",
+    "Length": 3,
+    "LaTeX": [ "\\tan" ],
     "Unicode": [ ],
     "HTML": [ ],
     "MathML": [ ],
     "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "tan", "tangent", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
+    "Title": "Hyperbolic Tangent Function",
+    "Example": "\\tanh",
+    "Length": 4,
+    "LaTeX": [ "\\tanh" ],
     "Unicode": [ ],
     "HTML": [ ],
     "MathML": [ ],
     "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ ],
-    "MathML": [ ],
-    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ ],
-    "MathML": [ ],
-    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
-  },
-  {
-    "Title": "",
-    "Example": "",
-    "LaTeX": [ "" ],
-    "Unicode": [ ],
-    "HTML": [ ],
-    "MathML": [ ],
-    "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
-    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "tanh", "tan", "tangent", "hyperbolic", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
     "Title": "",
