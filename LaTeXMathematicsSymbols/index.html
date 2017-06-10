@@ -30,7 +30,7 @@
         <div class="symbols">
             <div ng-repeat="symbol in symbols | symbolsNotNull | searchSymbols : searchTerms" class="symbol">
                 <div class="symbol-title">{{symbol.Title}}</div>
-                <div class="symbol-example"><katex latex="{{symbol.Example}}"></ka></katex></div>
+                <div class="symbol-example" ng-class="{'small-font-example': isLongExample(symbol.Length)}"><katex latex="{{symbol.Example}}"></ka></katex></div>
                 <div class="symbol-latex symbol-attribute"><span class="attribute-header">LaTeX</span><code ng-repeat="command in symbol.LaTeX">{{ command }}</code></div>
                 <div class="symbol-unicode symbol-attribute" ng-if="symbol.Unicode != ''"><span class="attribute-header">Unicode</span><code ng-repeat="code in symbol.Unicode">{{ code }}</code></div>
                 <div class="symbol-html symbol-attribute" ng-if="symbol.HTML != ''"><span class="attribute-header">HTML</span><code ng-repeat="entity in symbol.HTML">{{ entity }}</code></div>

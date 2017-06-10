@@ -2,36 +2,40 @@
   {
     "Title": "Arc Cosine Function",
     "Example": "\\arccos",
-    "LaTeX": [ "\\arccos" ],
+    "Length": 6,
+     "LaTeX": [ "\\arccos" ],
     "Unicode": [ ],
     "HTML": [ ],
     "MathML": [ ],
     "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
-    "Tags": [ "arc", "cos", "cosine", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "arc", "cos", "cosine", "trigonometry", "function", "arccos", "acos", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
     "Title": "Arc Sine Function",
     "Example": "\\arcsin",
+    "Length": 6,
     "LaTeX": [ "\\arcsin" ],
     "Unicode": [ ],
     "HTML": [ ],
     "MathML": [ ],
     "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
-    "Tags": [ "arc", "sin", "sine", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "arc", "sin", "sine", "trigonometry", "function", "arcsin", "asin", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
     "Title": "Arc Tangent Function",
     "Example": "\\arctan",
+    "Length": 6,
     "LaTeX": [ "\\arctan" ],
     "Unicode": [ ],
     "HTML": [ ],
     "MathML": [ ],
     "Notes": "Normal identifiers in mathematics are written in an italic font, but function names are written in a non-italic font. LaTeX has several commands for rendering function names correctly.",
-    "Tags": [ "arc", "tan", "tangent", "trigonometry", "function", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+    "Tags": [ "arc", "tan", "tangent", "trigonometry", "function", "arctan", "atan", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
     "Title": "Cosine Function",
     "Example": "\\cos",
+    "Length":3,
     "LaTeX": [ "\\cos" ],
     "Unicode": [ ],
     "HTML": [ ],
@@ -42,6 +46,7 @@
   {
     "Title": "Hyperbolic Cosine Function",
     "Example": "\\cosh",
+    "Length": 4,
     "LaTeX": [ "\\cosh" ],
     "Unicode": [ ],
     "HTML": [ ],
@@ -52,6 +57,7 @@
   {
     "Title": "Cotangent Function",
     "Example": "\\cot",
+    "Length": 3,
     "LaTeX": [ "\\cot" ],
     "Unicode": [ ],
     "HTML": [ ],
@@ -62,6 +68,7 @@
   {
     "Title": "Hyperbolic Cotangent Function",
     "Example": "\\coth",
+    "Length": 4,
     "LaTeX": [ "\\coth" ],
     "Unicode": [ ],
     "HTML": [ ],
@@ -72,6 +79,7 @@
   {
     "Title": "Cosecant Function",
     "Example": "\\csc",
+    "Length": 3,
     "LaTeX": [ "\\csc" ],
     "Unicode": [ ],
     "HTML": [ ],
@@ -82,6 +90,7 @@
   {
     "Title": "Exponential Function",
     "Example": "\\exp",
+    "Length": 3,
     "LaTeX": [ "\\exp" ],
     "Unicode": [ ],
     "HTML": [ ],
@@ -92,6 +101,7 @@
   {
     "Title": "Logarithm",
     "Example": "\\lg",
+    "Length": 2,
     "LaTeX": [ "\\lg", "\\log" ],
     "Unicode": [ ],
     "HTML": [ ],
@@ -102,6 +112,7 @@
   {
     "Title": "Natural Logarithm",
     "Example": "\\ln",
+    "Length": 2,
     "LaTeX": [ "\\ln" ],
     "Unicode": [ ],
     "HTML": [ ],

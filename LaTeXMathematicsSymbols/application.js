@@ -108,4 +108,8 @@ application.controller("SearchController", ["$scope", "$http", function SearchCo
         $scope.searchTerms = terms;
     }
 
+    $scope.isLongExample = function (symbolLength) {
+        return symbolLength > 1 && symbolLength !== undefined;
+    }
+
 }])

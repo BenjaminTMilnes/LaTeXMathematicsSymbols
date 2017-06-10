@@ -87,6 +87,10 @@ a {
     margin: 30px;
 }
 
+.small-font-example{
+    font-size: 50px;
+}
+
 .symbol-attribute {
     border-top: 1px solid #D0D0D0;
     background-color: #FAFAFA;
