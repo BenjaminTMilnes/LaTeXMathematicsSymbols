@@ -1,0 +1,162 @@
+﻿[
+  {
+    "Title": "Less Than Or Equal To Sign",
+    "Example": "\\leq",
+    "LaTeX": [ "\\leq" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "less than", "equal to", "equal", "equality", "inequality", "relation", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Precedes Sign",
+    "Example": "\\prec",
+    "LaTeX": [ "\\prec" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "precedes", "precedence", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Precedes Or Equals Sign",
+    "Example": "\\preceq",
+    "LaTeX": [ "\\preceq" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "precedes", "precedence", "equals", "equal to", "equal", "equality", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Much Less Than Sign",
+    "Example": "\\ll",
+    "LaTeX": [ "\\ll" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "less than", "inequality", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Proper Subset Sign",
+    "Example": "\\subset",
+    "LaTeX": [ "\\subset" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "subset", "proper", "sign", "set theory", "relation", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Subset Sign",
+    "Example": "\\subseteq",
+    "LaTeX": [ "\\subseteq" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "subset", "sign", "equals", "equal to", "equal", "equality", "set theory", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Greater Than Or Equal To Sign",
+    "Example": "\\geq",
+    "LaTeX": [ "\\geq" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "greater than", "equal to", "equal", "equality", "inequality", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Succeeds Sign",
+    "Example": "\\succ",
+    "LaTeX": [ "\\succ" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "succeeds", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Succeeds Or Equals Sign",
+    "Example": "\\succeq",
+    "LaTeX": [ "\\succeq" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "succeeds", "equals", "equal to", "equal", "equality", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Much Greater Than Sign",
+    "Example": "\\gg",
+    "LaTeX": [ "\\gg" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "greater than", "inequality", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Proper Superset",
+    "Example": "\\supset",
+    "LaTeX": [ "\\supset" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "superset", "proper", "sign", "set theory", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Superset",
+    "Example": "\\supseteq",
+    "LaTeX": [ "\\supseteq" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "superset", "sign", "equals", "equal to", "equal", "equality", "set theory", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  }
+]

@@ -96,7 +96,7 @@ application.controller("SearchController", ["$scope", "$http", function SearchCo
 
     $scope.symbols = [];
 
-    $scope.dataFiles = ["symbols.json", "binaryoperators.json", "greek.json", "functions.json"]
+    $scope.dataFiles = ["symbols.json", "binaryoperators.json", "greek.json", "functions.json", "relations.json"];
 
     for (var i = 0; i < $scope.dataFiles.length; i++) {
         $http.get($scope.dataFiles[i]).then(function (response) {

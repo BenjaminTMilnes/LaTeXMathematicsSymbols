@@ -120,6 +120,7 @@
     <Content Include="binaryoperators.json" />
     <Content Include="functions.json" />
     <None Include="Properties\PublishProfiles\latexmathematicssymbols.com.pubxml" />
+    <Content Include="relations.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
