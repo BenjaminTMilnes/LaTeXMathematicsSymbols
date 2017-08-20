@@ -100,7 +100,7 @@
     "Tags": [ "greater than", "inequality", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "Proper Superset",
+    "Title": "Proper Superset Sign",
     "Example": "\\supset",
     "LaTeX": [ "\\supset" ],
     "Unicode": [ "" ],
@@ -110,7 +110,7 @@
     "Tags": [ "superset", "proper", "sign", "set theory", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
-    "Title": "Superset",
+    "Title": "Superset Sign",
     "Example": "\\supseteq",
     "LaTeX": [ "\\supseteq" ],
     "Unicode": [ "" ],
@@ -118,6 +118,336 @@
     "MathML": [ "" ],
     "Notes": "",
     "Tags": [ "superset", "sign", "equals", "equal to", "equal", "equality", "set theory", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Square Proper Subset Sign",
+    "Example": "\\sqsubset",
+    "LaTeX": [ "\\sqsubset" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "subset", "proper", "square", "sign", "set theory", "relation", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Square Subset Sign",
+    "Example": "\\sqsubseteq",
+    "LaTeX": [ "\\sqsubseteq" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "subset", "sign", "square", "equals", "equal to", "equal", "equality", "set theory", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Square Proper Superset Sign",
+    "Example": "\\sqsupset",
+    "LaTeX": [ "\\sqsupset" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "superset", "proper", "square", "sign", "set theory", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Square Superset Sign",
+    "Example": "\\sqsupseteq",
+    "LaTeX": [ "\\sqsupseteq" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "superset", "sign", "square", "equals", "equal to", "equal", "equality", "set theory", "relation", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Identical To Sign",
+    "Example": "\\equiv",
+    "LaTeX": [ "\\equiv" ],
+    "Unicode": [ "" ],
+    "HTML": [ "&equiv;", "&#8801;" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "identical to", "identity", "equivalent to", "equivalency", "triple bar", "triple equals", "congruent to", "congruency", "relation", "sign", "", "", "", "" ]
+  },
+  {
+    "Title": "Not Identical To Sign",
+    "Example": "\\not\\equiv",
+    "LaTeX": [ "\\not\\equiv" ],
+    "Unicode": [ "" ],
+    "HTML": [ "&#8802;" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "not identical to", "identity", "not equivalent to", "equivalency", "triple bar", "triple equals", "not congruent to", "congruency", "relation", "sign", "slash", "not", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "Similar To Sign",
+    "Example": "\\sim",
+    "LaTeX": [ "\\sim" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "similar to", "similarity", "tilde", "wave", "relation", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ]
   },
   {
     "Title": "",
