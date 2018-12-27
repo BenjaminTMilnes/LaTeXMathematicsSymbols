@@ -119,6 +119,7 @@
     <Content Include="greek.json" />
     <Content Include="binaryoperators.json" />
     <Content Include="functions.json" />
+    <Content Include="arrows.json" />
     <None Include="Properties\PublishProfiles\latexmathematicssymbols.com.pubxml" />
     <Content Include="relations.json" />
     <None Include="Web.Debug.config">

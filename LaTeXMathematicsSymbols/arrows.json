@@ -1,0 +1,242 @@
+﻿[
+  {
+    "Title": "Left Arrow",
+    "Example": "\\leftarrow",
+    "LaTeX": [ "\\leftarrow" ],
+    "Unicode": [ "" ],
+    "HTML": [ "&larr;" ],
+    "MathML": [ "&larr;" ],
+    "Notes": "",
+    "Tags": [ "arrow", "left arrow" ]
+  },
+  {
+    "Title": "Double Left Arrow",
+    "Example": "\\Leftarrow",
+    "LaTeX":["\\Leftarrow"],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": ["arrow", "left arrow" , "double left arrow" ]
+  },
+  {
+    "Title": "Right Arrow",
+    "Example": "\\rightarrow",
+    "LaTeX": [ "\\rightarrow"],
+    "Unicode": [ "" ],
+    "HTML": [ "&rarr;" ],
+    "MathML": [ "&rarr;" ],
+    "Notes": "",
+    "Tags": ["arrow", "right arrow" ]
+  },
+  {
+    "Title": "Double Right Arrow",
+    "Example": "\\Rightarrow",
+    "LaTeX": [ "\\Rightarrow" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": ["arrow", "right arrow", "double right arrow" ]
+  },
+  {
+    "Title": "Left-Right Arrow",
+    "Example": "\\leftrightarrow",
+    "LaTeX": [ "\\leftrightarrow" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "arrow", "left-right arrow" ]
+  },
+  {
+    "Title": "Double Left-Right Arrow",
+    "Example": "\\Leftrightarrow",
+    "LaTeX": [ "\\Leftrightarrow" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "arrow", "left-right arrow", "double left-right arrow" ]
+  },
+  {
+    "Title": "Maps-To Arrow",
+    "Example": "\\mapsto",
+    "LaTeX": [ "\\mapsto" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "maps to", "arrow", "right arrow" ]
+  },
+  {
+    "Title": "Left Arrow With Hook",
+    "Example": "\\hookleftarrow",
+    "LaTeX": [ "\\hookleftarrow" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": ["arrow", "left arrow", "hook" ]
+  },
+  {
+    "Title": "Right Arrow With Hook",
+    "Example": "\\hookrightarrow",
+    "LaTeX": [ "\\hookrightarrow" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": ["arrow", "right arrow", "hook"]
+  },
+  {
+    "Title": "Left Harpoon Up",
+    "Example": "\\leftharpoonup",
+    "LaTeX": [ "\\leftharpoonup" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "arrow", "left arrow", "left harpoon", "harpoon" ]
+  },
+  {
+    "Title": "Left Harpoon Down",
+    "Example": "\\leftharpoondown",
+    "LaTeX": [ "\\leftharpoondown" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "arrow", "left arrow", "left harpoon", "harpoon"]
+  },
+  {
+    "Title": "Right-Left Harpoons",
+    "Example": "\\rightleftharpoons",
+    "LaTeX": [ "\\rightleftharpoons" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ "right-left", "arrows", "harpoons" ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ ]
+  },
+  {
+    "Title": "",
+    "Example": "",
+    "LaTeX": [ "" ],
+    "Unicode": [ "" ],
+    "HTML": [ "" ],
+    "MathML": [ "" ],
+    "Notes": "",
+    "Tags": [ ]
+  }
+]
